@@ -1,0 +1,9 @@
+body{
+    font-family: 'inter' , sans-serif;
+}
+.slider{
+    width: 100%;
+    height: 80vh;
+    aspect-ratio:16/9 ;
+    background-color: blue;
+}
